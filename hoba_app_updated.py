@@ -25,7 +25,7 @@ try:
 except Exception:
     DocxDocument = None
 
-DEFAULT_PDF_PATH = "/mnt/data/JIBC_Workshops_Facilitator_Dashboard_Phased_Timeline.pdf"
+DEFAULT_PDF_PATH = "https://github.com/Sandjune/JIBC/blob/main/JIBC_Workshops_Facilitator_Dashboard_Phased_Timeline.pdf"
 DEFAULT_DOCX_PATH = "/mnt/data/JIBC_Workshop_Facilitation_Guidebook_Full.docx"
 
 SECTIONS = ["DISCOVERY", "DESIGN", "REQUIREMENTS", "INTEGRATION", "ROADMAP", "FINALIZATION"]
