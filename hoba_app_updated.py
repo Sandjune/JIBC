@@ -11,6 +11,7 @@
 import os
 import io
 from typing import Dict, List, Tuple
+from docx import Document as DocxDocument
 
 import streamlit as st
 from streamlit.components.v1 import html
